@@ -1,0 +1,23 @@
+{
+  "name": "mern-ecomerce",
+  "version": "1.0.0",
+  "description": "MERN Ecommerce Site ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdthomp1/mern-ecomerce.git"
+  },
+  "author": "Cameron Thompson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cdthomp1/mern-ecomerce/issues"
+  },
+  "homepage": "https://github.com/cdthomp1/mern-ecomerce#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
